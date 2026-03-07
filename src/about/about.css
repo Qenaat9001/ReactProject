@@ -21,7 +21,7 @@
 .about .image {
     height: 150px;
     width: 150px;
-    background-image: url('C:\react\my-app\src\about\dd.jpg');
+    background-image: url('./dd.jpg');
     background-size: cover;
     border-radius: 50%;
     border: 1px solid;
