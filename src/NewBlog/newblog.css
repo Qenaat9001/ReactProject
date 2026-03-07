@@ -1,0 +1,34 @@
+.blog{
+    height: 406px;
+    width: 350px;
+    background-color: white;
+    text-align: left;
+    border: 1px solid #e0e0e0;
+    
+    
+    
+}
+.blog h3{
+    margin: 20px;
+}
+.blog p{
+    font-size: smaller;
+    margin: 10px;
+}
+.blog img{
+    height: 250px;
+    width: 100%;
+    /* background-image: url('C:\react\my-app\src\Pic\post-1.jpg'); */
+    background-size: cover;
+}
+.foot{
+    height: 50px;
+    width: 100%;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid #e0e0e0;;
+    
+}

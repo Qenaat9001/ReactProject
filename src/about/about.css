@@ -1,0 +1,46 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 450px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    box-shadow: 8px 20px 8px rgba(0,0,0,0.1);
+}
+.about .Line{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(233, 228, 221);
+    position: absolute;
+    top: 0;
+}
+
+
+.about .image {
+    height: 150px;
+    width: 150px;
+    background-image: url('C:\react\my-app\src\about\dd.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    border: 1px solid;
+    
+}
+.after{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+
+    
+}
+.after p{
+    text-align: justify;
+    line-height: 1.2;
+    padding: 3rem;
+}
+.after h1{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,32 @@
+/* .container2{
+    height: 800px;
+    width: 100%;
+    background-color:#f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+} */
+ .pic{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10rem;
+ }
+.pic h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.pic p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Newblog{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 5rem;
+}
